@@ -1,4 +1,4 @@
-Hello!, My name is James Leandri
+Hello! My name is James Leandri
 I am currently a senior at the Pennsylvania State University
 I am studying Computer Engineering
 Penn State Wind Energy Club
